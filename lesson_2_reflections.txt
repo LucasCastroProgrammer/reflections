@@ -1,0 +1,2 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+R: Ao iniciar um repositório, é criado no diretório escolhido uma pasta oculta chamada .git. Precisamos fazer isso pois todas as commits serão armazenadas nessa pasta. 

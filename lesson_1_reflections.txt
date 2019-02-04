@@ -1,0 +1,28 @@
+﻿Como a visualização de um diff entre duas versões de um
+arquivo ajuda você a ver o bug que foi introduzido?
+R: a visualização de um diff entre duas versões de um arquivo ajuda a ver o bug que foi introduzido pois desta forma você consegue identificar as mudanças 
+entre os arquivos e consequentemente identifica o erro entre eles.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+R: pode-se comparar versões desse arquivo para solucionar algum erro no projeto ou caso necessário restaurar uma dessas versões anteriores.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, ou o salvamento automático de versões, 
+como no Google Docs?
+R: o pró do salvamento manual é que pode ser feito tanto online quanto offline. O que contribui na variedade de ambientes onde se pode usar o arquivo. 
+O contra é que o salvamento é manual, ou seja, não há possibilidade de automatizar.
+O pró do salvamento automático de versão como o Google Docs é que qualquer alteração que é feita, a atualização é feita instantâneamente. 
+E pode-se realizar uma restauração se necessário, pesquisando pelo histórico. O contra é que para registrar as alterações e acessar o histórico, 
+deve-se estar online.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, 
+tratam cada arquivo separadamente?
+R: Pois há a possibilidade dos arquivos pertencentes ao repositório influenciarem no comportamento um do outro.
+
+Como usar os comandos Git log e Git diff para visualizar o histórico dos arquivos
+R: Usamos o git log para visualizar todos os commits realizados no arquivo, e o Git diff para comparar as mudanças de um commit para o outro.
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+R: Pois se em algum momento foi inserido um bug no código, como vimos no exemplo do exercício, você pode restaurar para uma versão anterior.
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+R: Quero usar o Git para controlar as versões do meu projeto. Tornando o desenvolvimento ágil e seguro.
