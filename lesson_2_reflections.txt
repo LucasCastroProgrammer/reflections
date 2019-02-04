@@ -1,2 +1,10 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 R: Ao iniciar um repositório, é criado no diretório escolhido uma pasta oculta chamada .git. Precisamos fazer isso pois todas as commits serão armazenadas nessa pasta. 
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+R: Em minha opinião, a diferença é que no diretório de trabalho, tem-se o arquivo com a última versão atualizada.
+Já no repositório, tem-se todos os commits de todas as alterações realizadas. O diretório de trabalho por si mesmo não apresenta tanto valor, a partir do meu ponto de vista, já que há somente a última versão atualizada. Já o repositório tem salvo todas as versões anteriores do projeto, onde entrega mais valor a partir do momento que há a possibilidade de restauração e verificação de alteração e identificação de possíveis erros.
+
+http://udacity.github.io/git-styleguide/ - Estilos para as mensagens de commit
+
+Editando...
