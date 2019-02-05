@@ -8,3 +8,18 @@ Já no repositório, tem-se todos os commits de todas as alterações realizadas
 http://udacity.github.io/git-styleguide/ - Estilos para as mensagens de commit
 
 Editando...
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+R: você adiciona os arquivos até a área de preparação, um por um. E depois pode confirmar executando o commit. É importante pois alterações lógicas devem ser bem documentadas.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+R: Os branches ajudam muito para experimentações. Se quero testar algo, crio uma branch e faço as modificações de teste necessárias. Sem alterar o projeto principal.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+R: Os diagramas ajudam a visualizar a estrutura de branches pois se consegue ver os pais de uma commit e as ligações das novas branches com suas respectivas commits.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+R: O resultado da mesclagem de dois branches é que serão realizadas alterações de adição e subtração de comandos já feita nos branches, resultando em uma versão final. A representação no diagrama acontece daquela forma, porque a partir de momento que um branche é executado, o Master continua como referência principal. O rótulo identificando a branch já pode ser excluído pois todas as commits dessa branch já estão referênciadas para o Master após a fusão.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+R: não me lembro de termos falado sobre mesclagem automática. Mas acredito que um benefício seria a automatização desta tarefa, e o malefício seria executar a tarefa em um momento não tão propício.
