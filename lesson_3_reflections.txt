@@ -4,3 +4,6 @@ Ou até quando um outro colaborador está trabalhando no projeto.Depois, é só 
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 R: Pois desta forma posso verificar os arquivos que realmente quero presentes em meu repositório local.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+R: Bifurcação é quando 'clono' um repositório público para o meu repositório. Clones é o ato de mesmo nome que realiza a cópia do repositório online para o local, e até mesmo do local para o local, menos de repositório online para outro, pois isso seria bifurcação. Branches são usados para referenciar o histórico principal de alteração do projeto. Usamos bifurcações quando queremos alterar algum projeto público, do nosso jeito, porém fazendo referência ao criador original. O clone é usado quando queremos clonar um repositório para uma máquina local, e o branch é usado para ajudar a referenciar as ações de push e pull.
