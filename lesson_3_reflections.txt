@@ -10,3 +10,6 @@ R: Bifurcação é quando 'clono' um repositório público para o meu repositór
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 R: Pois se analisarmos o fluxo de alterações de um projeto. As execuções são feitas localmente e atualizadas no remoto. Com o último estado do remoto atualizado localmente, pode-se continuar a trabalhar com o projeto desde a última atualização efetuada. Neste exemplo, temos que levar em consideração também algum colaborador do projeto que realiza uma alteração e atualiza o remoto. Tendo a versão local sincronizada, pode-se começar deste ponto.
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+R: sinceramente não consigo mais pensar em não usar o Git e o Github para a colaboração no desenvolvimento de projetos. Quando se começa a aprender e a praticar, se ganha muito em produtividade.
