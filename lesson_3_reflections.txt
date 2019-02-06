@@ -13,3 +13,6 @@ R: Pois se analisarmos o fluxo de alterações de um projeto. As execuções sã
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 R: sinceramente não consigo mais pensar em não usar o Git e o Github para a colaboração no desenvolvimento de projetos. Quando se começa a aprender e a praticar, se ganha muito em produtividade.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+R: faço as alterações em um branch separado quando quero fazer uma experimentação no projeto sem prejudicar o histórico principal. Quando aprovado pela maioria dos colaboradores, executo um merge com o master. Com o branch tem-se mais liberdade para criar, sem necessariamente estar mexendo com o histórico master (principal). Direto no master a modificação é mais direta, sem precisar tratar conflitos, embora haja mais riscos.
