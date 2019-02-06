@@ -26,3 +26,5 @@ R: Pois se em algum momento foi inserido um bug no código, como vimos no exempl
 
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 R: Quero usar o Git para controlar as versões do meu projeto. Tornando o desenvolvimento ágil e seguro.
+
+Mudança!
